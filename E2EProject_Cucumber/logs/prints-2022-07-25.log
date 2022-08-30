@@ -1,0 +1,6 @@
+23:38:37.635 [AsyncHttpClient-1-9] TRACE io.netty.handler.codec.http.websocketx.WebSocket08FrameDecoder - Decoding WebSocket Frame length=0
+23:38:41.920 [TestNG-tests-1] INFO  resources.L191_base - Navigated to Home page.
+23:38:51.179 [TestNG-tests-1] INFO  resources.L191_base - Navigated to Login page.
+23:38:51.438 [TestNG-tests-1] INFO  resources.L191_base - User is a Restricted User
+23:38:52.246 [TestNG-tests-1] INFO  resources.L191_base - Submit button clicked
+23:38:58.704 [AsyncHttpClient-1-4] TRACE io.netty.handler.codec.http.websocketx.WebSocket08FrameDecoder - Decoding WebSocket Frame opCode=8

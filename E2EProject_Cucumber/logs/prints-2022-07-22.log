@@ -1,0 +1,7 @@
+18:07:51.753 [TestNG-tests-1] INFO  resources.L191_base - Navigated to Home page.
+18:07:52.778 [TestNG-tests-2] INFO  resources.L191_base - Navbar Verified.
+18:08:02.563 [TestNG-tests-1] INFO  resources.L191_base - Navigated to Login page.
+18:08:03.086 [TestNG-tests-1] INFO  resources.L191_base - User is a Non-Restricted User
+18:08:03.353 [TestNG-tests-1] INFO  resources.L191_base - Submit button clicked
+18:08:08.698 [TestNG-tests-1] INFO  resources.L191_base - Navigated to Home page.
+18:08:14.134 [TestNG-tests-1] INFO  resources.L191_base - Navigated to Login page.

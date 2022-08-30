@@ -1,0 +1,6 @@
+23:31:20.702 [TestNG-tests-3] INFO  resources.L191_base - Navigated to Home page.
+23:31:21.706 [TestNG-tests-2] INFO  resources.L191_base - Navbar Verified.
+23:31:22.795 [TestNG-tests-3] INFO  resources.L191_base - Succesfully validated text message.
+23:31:27.471 [TestNG-tests-1] INFO  resources.L191_base - Navigated to Login page.
+23:31:27.763 [TestNG-tests-1] INFO  resources.L191_base - User is a Non-Restricted User
+23:31:27.881 [TestNG-tests-1] INFO  resources.L191_base - Submit button clicked
