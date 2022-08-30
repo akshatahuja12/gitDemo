@@ -9,7 +9,9 @@ public class L254_gitDemoclass {
 		System.out.println("Hello, I am a changed by X!");	
 		System.out.println("Hello, Today is a good day");	
 
-		
+		System.out.println("Hello, I am a change!");
+		System.out.println("Hello, I am a changed by X!");	
+		System.out.println("Hello, Today is a good day");	
 	}
 
 }
